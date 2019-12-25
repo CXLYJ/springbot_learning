@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>博主信息</title>
+</head>
+<body>
+<form action="" th:each="list : ${orderList}" >
+    用户姓名：<input type="text" name="password" th:value="${list.name}"/><br>
+    登录密码：<input type="text" name="username" th:value="${list.age}"/>
+</form>
+</body>
+</html>

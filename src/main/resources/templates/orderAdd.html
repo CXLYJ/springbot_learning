@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>添加用户</title>
+</head>
+<body>
+<form th:action="@{/jpa/save}" method="get">
+    username:<input type="text" name="name"/><br>
+    password:<input type="text" name="age"/><br>
+    <input type="submit" value="添加">
+</form>
+</body>
+</html>

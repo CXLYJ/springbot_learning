@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+
+.mvn/wrapper
+.mvn
+.idea
+*.iml
+target
+mvnw.cmd
+mvnw
+src/main/resources/datasource.properties
+src/main/resources/generatorConfig.xml
+out
+gen
