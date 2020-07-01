@@ -11,6 +11,7 @@ import javax.jms.ConnectionFactory;
 
 /**
  * Created by lyj on 2018/10/30.
+ *
  * activemq的配置
  */
 @Configuration
