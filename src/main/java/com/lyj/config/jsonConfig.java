@@ -14,6 +14,8 @@ import java.io.IOException;
 
 /**
  * Created by lyj on 2018/10/19.
+ *
+ * json转换
  */
 //@Configuration
 public class jsonConfig {
