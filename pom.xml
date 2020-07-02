@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lyj</groupId>
-	<artifactId>lyj</artifactId>
+	<artifactId>springboot_learning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-	<name>lyj</name>
+	<name>springboot_learning</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
