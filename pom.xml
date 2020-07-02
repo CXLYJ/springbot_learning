@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
 	<name>springboot_learning</name>
-	<description>Demo project for Spring Boot</description>
+	<description>springBoot 学习</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
