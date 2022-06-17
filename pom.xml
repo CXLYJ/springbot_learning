@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.35</version>
+			<version>1.2.83</version>
 		</dependency>
 
 		<!--使用 @ConfigurationProperties 注解需要导入它的依赖-->
